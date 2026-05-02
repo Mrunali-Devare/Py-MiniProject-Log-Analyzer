@@ -1,0 +1,4 @@
+2026-04-14 10:15:23 INFO User logged in IP:192.168.1.1
+2026-04-14 10:16:10 ERROR Database connection failed IP:192.168.1.2
+2026-04-14 10:17:45 WARNING Disk space low
+2026-04-14 10:18:00 INFO User logged out IP:192.168.1.1
